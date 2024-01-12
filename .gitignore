@@ -1,4 +1,7 @@
 *.exe
 /.vscode/
 
+/Contracts/
+
 *.gitignore
+*.out   
