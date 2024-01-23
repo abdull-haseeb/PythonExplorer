@@ -1,35 +1,34 @@
-# CPlusPlusHandsOn
+# Polyglot Learning Repository
 
-Welcome to the CPlusPlusHandsOn repository! This repository is a collection of hands-on projects, exercises, and examples aimed at helping you learn and explore the C++ programming language. Whether you're a beginner or an experienced developer, you'll find a variety of code samples and projects to enhance your C++ skills.
+Welcome to my Polyglot Learning Repository! 🚀
 
-## Contents
+This repository serves as my playground for exploring different programming languages like Java, C++, C, and Rust. As a JavaScript developer, I'm diving into new territories to broaden my skills and understanding of diverse programming paradigms.
 
-This repository contains:
+## Languages Explored
 
-- **Projects**: Complete C++ projects that showcase different aspects of the language.
-- **Exercises**: Coding exercises designed to challenge and reinforce your understanding of C++ concepts.
-- **Examples**: Code snippets and examples covering various C++ features and techniques.
+- **Java**
+- **C++**
+- **C**
+- **Rust**
 
-## How to Use
+## Project Structure
 
-Each project, exercise, and example is organized into its own directory. Inside each directory, you'll find the relevant source code, any necessary resources, and a brief explanation of what the code does.
+./
+│
+├── java/
+├── cpp/
+├── rust/
+├── C/
+│
+└── README.md
+└── .gitignore
 
-Feel free to explore the contents of this repository, study the code, and experiment with modifications. If you're a beginner, start with the simpler examples and exercises before moving on to more complex projects.
+## How to Run
 
-## Getting Started
+Each language folder contains its own README.md with instructions on how to run the sample code. Feel free to explore and try out the programs!
 
-1. Clone this repository to your local machine using `git clone https://github.com/Abdull-Haseeb/CPlusPlusHandsOn.git`.
+## Contributions
 
-2. Navigate to the specific project or example directory you're interested in.
+If you have suggestions, improvements, or want to add examples in other languages, feel free to open an issue or submit a pull request. Let's learn together!
 
-3. Follow the instructions provided in the directory's `README` file to compile and run the code.
-
-## Contributing
-
-Contributions to this repository are welcome! If you'd like to add your own C++ projects, exercises, or examples, feel free to fork this repository, make your changes, and submit a pull request. Please make sure your contributions align with the learning and exploration theme of this repository.
-
-## License
-
-This repository is licensed under the [MIT License](LICENSE), which means you can freely use, modify, and distribute the code.
-
-Happy coding and enjoy your C++ hands-on journey!
+Happy Coding! 👩‍💻👨‍💻
