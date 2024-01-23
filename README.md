@@ -12,16 +12,15 @@ This repository serves as my playground for exploring different programming lang
 - **Rust**
 
 ## Project Structure
-
 ./
-│
+
 ├── java/
+
 ├── cpp/
-├── rust/
-├── C/
-│
+
+├── c/
+
 └── README.md
-└── .gitignore
 
 ## How to Run
 
