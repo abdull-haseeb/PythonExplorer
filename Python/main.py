@@ -18,4 +18,5 @@ def clone_github_repos(username):
         subprocess.run(['git', 'clone', clone_url])
 
 # Replace 'codewithsadee' with the GitHub username you want to clone the repositories from
-clone_github_repos('codewithsadee')
+clone_github_repos('username')
+
