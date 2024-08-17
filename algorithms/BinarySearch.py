@@ -1,6 +1,6 @@
 def binary_search(my_list, item):
     low = 0  # Start of the list
-      high = len(my_list) - 1  # End of the list
+    high = len(my_list) - 1  # End of the list
     
     while low <= high:
         mid = (low + high) // 2 # Calculate the middle index
